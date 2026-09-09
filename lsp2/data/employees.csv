@@ -1,0 +1,15 @@
+EmployeeID,Name,Department,HoursWorked,HourlyRate
+101, Alice Johnson ,HR,40,25.00
+102,Bob Smith,IT,45,30.00
+badid,Chris Jones,Sales,40,20.00
+104,Diana Green,IT,abc,35.00
+105,TooFewFields,Finance,40
+106,Too,Many,Fields,In,This,Row
+107, Evan Lee ,Sales,20,18.50
+108,Fatima Brown,IT,40,50.00
+109,George White,Finance,50,40.00
+110,Helen Davis,IT,30,80.00
+111,Ian Wilson,HR,-5,30.00
+112,Julia Clark,Sales,40,bad
+
+113,Kevin Young,Marketing,30,16.666

@@ -1,0 +1,8 @@
+EmployeeID,Name,Department,HoursWorked,HourlyRate,GrossPay,PayLevel,EmploymentStatus
+101,ALICE JOHNSON,HR,40.00,25.00,1000.00,High,Full-Time
+102,BOB SMITH,IT,45.00,30.00,1496.25,High,Full-Time
+107,EVAN LEE,Sales,20.00,18.50,370.00,Low,Part-Time
+108,FATIMA BROWN,IT,40.00,50.00,2100.00,Executive,Full-Time
+109,GEORGE WHITE,Finance,50.00,40.00,2200.00,Executive,Full-Time
+110,HELEN DAVIS,IT,30.00,80.00,2520.00,Executive,Full-Time
+113,KEVIN YOUNG,Marketing,30.00,16.67,499.98,Low,Full-Time
